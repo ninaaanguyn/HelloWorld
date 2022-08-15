@@ -1,4 +1,4 @@
-# Android Prework - *Simple ToDo*
+# Android Prework - *Hello World*
 
 Submitted by: **Nina**
 
